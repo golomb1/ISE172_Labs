@@ -1,0 +1,8 @@
+c:\users\tomer\documents\visual studio 2015\Projects\ISE172_Labs\Lab7_Files\bin\Debug\Lab7_Files.exe.config
+c:\users\tomer\documents\visual studio 2015\Projects\ISE172_Labs\Lab7_Files\bin\Debug\Lab7_Files.exe
+c:\users\tomer\documents\visual studio 2015\Projects\ISE172_Labs\Lab7_Files\bin\Debug\Lab7_Files.pdb
+c:\users\tomer\documents\visual studio 2015\Projects\ISE172_Labs\Lab7_Files\obj\Debug\Lab7_Files.exe
+c:\users\tomer\documents\visual studio 2015\Projects\ISE172_Labs\Lab7_Files\obj\Debug\Lab7_Files.pdb
+C:\Users\tomer\Documents\Visual Studio 2015\Projects\ISE172_Labs\Lab7_Files\obj\Debug\Lab7_Files.csprojResolveAssemblyReference.cache
+C:\Users\tomer\documents\visual studio 2015\Projects\ISE172_Labs\Lab7_Files\bin\Debug\Lab7_Files.exe.CodeAnalysisLog.xml
+C:\Users\tomer\documents\visual studio 2015\Projects\ISE172_Labs\Lab7_Files\bin\Debug\Lab7_Files.exe.lastcodeanalysissucceeded

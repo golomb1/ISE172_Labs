@@ -1,0 +1,8 @@
+C:\Users\tomer\Documents\Visual Studio 2015\Projects\ISE172_Labs\Lab8-SQL\bin\Debug\Lab8-SQL.exe.config
+C:\Users\tomer\Documents\Visual Studio 2015\Projects\ISE172_Labs\Lab8-SQL\bin\Debug\Lab8-SQL.exe
+C:\Users\tomer\Documents\Visual Studio 2015\Projects\ISE172_Labs\Lab8-SQL\bin\Debug\Lab8-SQL.pdb
+C:\Users\tomer\Documents\Visual Studio 2015\Projects\ISE172_Labs\Lab8-SQL\obj\Debug\Lab8-SQL.exe
+C:\Users\tomer\Documents\Visual Studio 2015\Projects\ISE172_Labs\Lab8-SQL\obj\Debug\Lab8-SQL.pdb
+C:\Users\tomer\Documents\Visual Studio 2015\Projects\ISE172_Labs\Lab8-SQL\obj\Debug\Lab8-SQL.csprojResolveAssemblyReference.cache
+C:\Users\tomer\documents\visual studio 2015\Projects\ISE172_Labs\Lab8-SQL\bin\Debug\Lab8-SQL.exe.CodeAnalysisLog.xml
+C:\Users\tomer\documents\visual studio 2015\Projects\ISE172_Labs\Lab8-SQL\bin\Debug\Lab8-SQL.exe.lastcodeanalysissucceeded

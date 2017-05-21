@@ -1,0 +1,11 @@
+-- Answer 1 --
+The director is: David Ayer
+-- Answer 2 --
+The Movie name is: Towering Inferno and the number of reviewer is 
+-- Answer 3 --
+The Movie name is: Captain America: Civil War And it was directed by Anthony Russo
+-- Answer 4 --
+There are : 4690 Movies in Colorand: 19 Movies in 
+-- Answer 5 --
+The Movie name is: Avatar the number of voted users are 886204 and the diffrent between gross and budget is 523505847
+3505847
